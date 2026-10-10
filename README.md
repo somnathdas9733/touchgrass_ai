@@ -30,7 +30,7 @@ Modern life traps us in endless notification loops, doomscrolling, and digital f
 ## Demo
 <!-- Share a deployed link or a video demo. -->
 
-- **Live / Video Demo**: *[Insert your Loom, YouTube, or deployed link here, e.g. https://youtu.be/your-demo-id]*
+- **Live / Video Demo**: *(https://canva.link/em1rccacq5cmavj)*
 - **Local Preview**: Runs locally at `http://localhost:5173` connecting to Ollama at `http://localhost:11434`.
 
 *(Tip: Add a GIF or screenshot of your interface here)*
